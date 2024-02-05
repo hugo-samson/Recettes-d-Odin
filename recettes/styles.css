@@ -1,0 +1,35 @@
+h1 {
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+div {
+    font-family: "Arial", "Helvetica", sans-serif;
+}
+
+.center {
+    text-align: center;
+}
+
+#red {
+    color: red;
+    background-color: rgba(254, 254, 95, 0.669);
+}
+
+#colors {
+    color: white;
+    background-color: rgba(93, 255, 93, 0.709);
+    font-weight: 800;
+}
+
+img {
+    height: auto;
+    width: 310px;
+}
+
+#cookie {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
