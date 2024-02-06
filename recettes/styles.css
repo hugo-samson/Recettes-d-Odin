@@ -33,3 +33,41 @@ img {
     color: red;
     font-family: 'Times New Roman', Times, serif;
 }
+
+* {
+    outline: 2px solid rgba(255, 255, 255, 0.538);
+  }
+
+.Centre {
+    margin: auto;
+    display: block;
+    width: auto;
+    text-align: center;
+    padding: auto;
+}
+
+#ekip {
+    padding: 8px 16px;
+    border: 4px;
+    margin: 8px;
+    display: block;
+    width: auto;
+    text-align: center;
+}
+
+#test {
+    padding: 8px 16px;
+    border: 4px;
+    margin: 8px;
+    display: block;
+    width: auto;
+}
+
+.jsp {
+    display: inline-block;
+    width: 0 auto;
+    margin: 6px;
+    padding: 8px;
+    border: 2px;
+
+}
